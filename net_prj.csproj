@@ -65,11 +65,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="net\HttpNet.cs" />
-    <Compile Include="net\INetObject.cs" />
-    <Compile Include="net\NetObject.cs" />
-    <Compile Include="net\TcpNet.cs" />
-    <Compile Include="net\UdpNet.cs" />
+    <Compile Include="src\HttpNet.cs" />
+    <Compile Include="src\INetObject.cs" />
+    <Compile Include="src\NetObject.cs" />
+    <Compile Include="src\TcpNet.cs" />
+    <Compile Include="src\UdpNet.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,5 @@
+D:\workspace\giwork\csharp_net_prj\bin\net_dll.dll
+D:\workspace\giwork\csharp_net_prj\bin\net_dll.pdb
+D:\workspace\giwork\csharp_net_prj\obj\Debug\net_prj.csprojResolveAssemblyReference.cache
+D:\workspace\giwork\csharp_net_prj\obj\Debug\net_dll.dll
+D:\workspace\giwork\csharp_net_prj\obj\Debug\net_dll.pdb
